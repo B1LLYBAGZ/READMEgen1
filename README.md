@@ -6,27 +6,10 @@ This Node.js application dynamically generates a professional README.md file fro
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [Usage](#usage)
 - [Questions](#questions)
 - [Contributing](#contributing)
 - [Tests](#tests)
-- [License](#license)
-
-## Installation
-
-1. Clone the repository to your local machine.
-   ```sh
-   git clone <repository-url>
-   ```
-2. Navigate to the project directory.
-   ```sh
-   cd <project-directory>
-   ```
-3. Install the necessary packages.
-   ```sh
-   npm install
-   ```
 
 ## Usage
 
@@ -40,7 +23,7 @@ You will be prompted to enter information about your project, such as the projec
 
 ## Questions
 
-If you have any questions about the project, you can reach out to me at [your-email@example.com](mailto:your-email@example.com). You can also find more of my work at [your-github-username](https://github.com/your-github-username).
+If you have any questions about the project, you can reach out to me at [your-email@example.com](098williamhogan@gmail.com). You can also find more of my work at [your-github-username](https://github.com/B1LLYBAGZ).
 
 ## Contributing
 
@@ -70,13 +53,3 @@ npm test
 ```
 
 Make sure to add your own test scripts in the `package.json` file.
-
-## License
-
-This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
-
----
-
-### Note
-
-Replace the placeholders like `<repository-url>`, `<project-directory>`, `your-email@example.com`, and `your-github-username` with your actual data before using this README file.
