@@ -21,6 +21,9 @@ node index.js
 
 You will be prompted to enter information about your project, such as the project title, description, installation instructions, usage information, contribution guidelines, test instructions, and licensing information. After providing all the required information, a README.md file will be generated in your project directory.
 
+[Untitled_ Jun 23, 2024 7_08 PM.webm](https://github.com/B1LLYBAGZ/READMEgen1/assets/164563465/2036894e-80ee-492a-8216-7dee4412222c)
+
+
 ## Questions
 
 If you have any questions about the project, you can reach out to me at [your-email@example.com](098williamhogan@gmail.com). You can also find more of my work at [your-github-username](https://github.com/B1LLYBAGZ).
