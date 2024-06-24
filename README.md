@@ -26,7 +26,7 @@ You will be prompted to enter information about your project, such as the projec
 
 ## Questions
 
-If you have any questions about the project, you can reach out to me at [your-email@example.com](098williamhogan@gmail.com). You can also find more of my work at [your-github-username](https://github.com/B1LLYBAGZ).
+If you have any questions about the project, you can reach out to me at [098williamhogan@gmail.com](098williamhogan@gmail.com). You can also find more of my work at [https://github.com/B1LLYBAGZ](https://github.com/B1LLYBAGZ).
 
 ## Contributing
 
